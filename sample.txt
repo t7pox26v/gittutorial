@@ -1,3 +1,4 @@
 test
 test2
 commit test3
+pull リモートリポジトリの内容を取得
